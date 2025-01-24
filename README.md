@@ -122,5 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-Project Link: [https://github.com/yourusername/dynamical-systems-sim](https://github.com/yourusername/dynamical-systems-sim)
+Sayhan Yalvaçer
+Project Link: [https://github.com/sayhany/dynamical-systems-sim](https://github.com/sayhany/dynamical-systems-sim)
