@@ -117,8 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Three.js for 3D visualization
-- The dynamical systems research community
-- Contributors and testers
 
 ## Contact
 
